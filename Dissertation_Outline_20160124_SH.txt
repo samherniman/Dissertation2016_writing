@@ -1,0 +1,72 @@
+Dissertation outline 20160124 SH
+
+Introduction
+•	Orchidaceae
+		Diversity of orchids
+		Use of orchids
+•	Orchids in Trade
+		Sources of orchids
+		Prices of orchids
+•	Orchids in China
+		Diversity of orchids in China
+		Cultural significance
+•	Threats to orchids in China
+		Horticulture
+		Medicine
+		
+	MAXENT
+		What is Maximum Entropy?
+			Fig. 1
+		What is MAXENT?
+			ROC analysis
+			Presence only data
+			Environmental variables 
+			Regularisation
+		What can it be used for?
+			Assessing the possible spread of invasive species 
+			Climate change outlooks for at risk species 
+			Discovering new populations of a species 
+			Determining areas of conservation concern and the most appropriate reserve boundaries 
+			Assessing potential areas for reintroductions and translocations 
+		Where it falls short
+			Sampling bias
+			Range
+		Conclusions
+Aims and objectives
+1.	Where are the orchids?
+2.	What factors determine the distribution of these orchids?
+3.	What is the greatest threat to these orchids?
+4.	 
+Methods
+	Study site
+		Location
+		Habitats
+		Orchids
+	Fieldwork
+•	Preparing data
+		Presence points
+		Environmental variables
+			NDVI
+				Landsat 8 or Sentinel 2
+			Distance to roads
+			Distance to water
+			Distance to settlements?
+			DEM
+			Albedo?
+			Tasseled cap transformation?
+		Principle component analysis
+	MAXENT
+		Model selection
+	
+•	analysis
+Results
+	Map
+	ROC analysis
+Discussion
+	Orchid distribution
+	Factors determining distribution
+	Threats to orchids
+	Why does this matter?
+	What does this teach us?
+	Assumptions of Habitat suitablility models
+Conclusion
