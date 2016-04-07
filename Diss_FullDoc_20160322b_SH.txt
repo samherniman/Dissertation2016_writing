@@ -1,5 +1,5 @@
 Insert title here
-Name
+Samuel John Herniman
 
 Being an
 Honours project
@@ -8,14 +8,14 @@ Bangor University
 in partial fulfilment of an
 Honours degree in Applied Terrestrial and Marine Ecology
 
-May 2016									xxxxxxxxxx
+May 2016									500315403
  
 Declaration
 
 I declare that this is the result of my own investigation and that it has not been submitted or accepted in whole or part for any degree, nor is it being submitted for any other degree.
 
 
-Candidate: Name
+Candidate: Samuel J Herniman
 
 
 Signature: ……………………………….
@@ -37,26 +37,96 @@ Acknowledgements	2
 Abstract	3
 Contents	5
 Introduction	7
-Maximum Entropy	7
-What is Maximum Entropy?	7
-What is MAXENT?	9
-What can it be used for?	12
-Where it falls short…	13
-Conclusions	15
-Methods	16
-Results	17
-Discussion	18
-Conclusions	19
-References	20
-Appendices	21
+Orchidaceae	7
+Diversity of Orchids	7
+Use of orchids globally	7
+Orchids in Trade	7
+Sources of orchids	8
+Demand for orchids	8
+Horticulture or medicine?	8
+CITES	8
+Orchids in China	9
+Diversity	9
+Cultural significance	9
+Use in China	9
+Horticulture	9
+Food	9
+Medicine	10
+Threats to orchids in China	10
+Wild harvesting	10
+Deforestation	10
+Cultivation	11
+Protected areas	11
+Description of the study site	11
+Maximum Entropy	12
+What is Maximum Entropy?	13
+What is MAXENT?	15
+What can it be used for?	18
+Where it falls short…	19
+Conclusions	21
+Methods	22
+Results	23
+Discussion	24
+Conclusions	25
+References	26
+Appendices	27
 
 
  
 Introduction
+Orchidaceae 
+Diversity of Orchids
+The Orchidaceae family is one of the largest families of flowering plants (sharing the top spot with the Asteraceae), composed of more than 25,000 species and 736 genera (Liu, Luo & Liu 2010; Joppa, Roberts & Pimm 2010; Xing et al. 2014; Chase et al. 2015). Orchids have been found on all continents including Antarctic islands (Chen et al. 2014). Almost all orchid species rely on mycorrhizal fungi (known as rhizoctonias) in some or all of their life cycles(Rasmussen & Rasmussen 2009; Xing et al. 2014)
+
+
+Use of orchids globally
+Horticulture
+Medicine
+Gastrodia elata, Dendrobium offcinale, Ludisia discolor
+Vanilla
+
+Orchids in Trade
+The global orchid trade is vast and varied (Goh & Kavaljian 1989)
+Sources of orchids
+Demand for orchids 
+Goh & Kavaljian (1989) outlined the factors determining the demand for orchids. These include: whether or not members of a country consume flowers regularly, consumer income, energy cost in production of the orchid, vaselife and quality, fashion, and predictions of the importers and distributors (Goh & Kavaljian 1989).
+Horticulture or medicine?
+CITES
+The primary mechanism in place to reduce wildlife trade is the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). CITES has been successful in the case of intense farming and regulatory effort in combinations with the SARS  epidemic of 2003 (Jiang et al. 2013), but its effectiveness has been called into question (Phelps et al. 2010; Challender & MacMillan 2014; Nijman & Shepherd 2015). Trade bans can, in some cases, exacerbate overexploitation threats (Conrad 2012) and drive wildlife trade underground rather than reducing it (Veríssimo, Diogo; Challender, Daniel W.S. & Nijman 2012; Biggs et al. 2013).
+While CITES makes it illegal to trade orchids across borders, it is not illegal to harvest orchids and trade them within China (citation needed). There is a need for research to determine whether the orchids bought and sold around the borders of China were harvested within China or one of its neighbors.
+Where do orchids fall under CITES?
+CITES lists all of the known wild Orchids (Tian, Chen & Xing 2013)
+
+Orchids in China
+Diversity
+There are more than 1200 native orchid species and 173 genera of orchids in China (Liu, Luo & Liu 2010)
+Cultural significance
+Orchids have been highly admired in the Chinese culture since the time of Confucius (Goh & Kavaljian 1989).
+Use in China
+Orchids are used horticulturally and medicinally in China
+Horticulture
+Food
+G elata (Chen et al. 2014)
+
+Medicine
+Examples: Dendrobium officinale had a large distribution throughout the south of China but is now rare in the wild (Ding et al. 2008) G elata (Chen et al. 2014)
+It is tricky to regulate this use as these orchids do have medicinal uses (Ng et al. 2012; Chen et al. 2014). Although an argument can be made in to conserving these species so that medicines are available to future generations.
+Threats to orchids in China
+The conservation of orchids is threatened by overharvesting and habitat destruction (Liu, Luo & Liu 2010; Chen et al. 2014). There is an urgent need for protection (Liu, Luo & Liu 2010).
+Wild harvesting 
+Example: Gastrodia elata. 1960s. Collapse of wild populations due to wild harvesting (Chen et al. 2014). Nearly all medicinal plants in China are wild harvested(Lopez-Pujol, Zhang & Ge 2006; Sang, Ma & Axmacher 2011). This practice has threatened the existence of many orchid species (Sang, Ma & Axmacher 2011; Chen et al. 2014). Bans on collecting endangered species have been largely unenforced and subsequently ineffective (Sang, Ma & Axmacher 2011).
+Deforestation
+Deforestation has been carried out in China for hundreds of years (Sang, Ma & Axmacher 2011). Consequently, the number of natural forests in China is highly reduced (Sang, Ma & Axmacher 2011). There is currently a ban on logging from natural forests, however, the impoverished rural areas of the country often take little heed to laws regarding protected areas (Lopez-Pujol, Zhang & Ge 2006; Sang, Ma & Axmacher 2011).
+Cultivation
+Very few native orchids in China have been cultivated on a large scale (Liu, Luo & Liu 2010; Chen et al. 2014). This is partly due to the mycorrhizal fungal associations many orchids rely on which makes the process of developing a cultivation method time consuming and expensive (Liu, Luo & Liu 2010; Xing et al. 2014) (citation needed ). Even if cultivation were possible, Williams, Jones & Annewandter (2014) found that some cultivation programmes can increase the strain of wild harvesting. However there are successful examples of this technique (Liu, Luo & Liu 2010).
+Protected areas
+Chinese authorities struggle to effectively manage protected areas (Zhou & Grumbine 2011) as little enforcement is carried out in these areas and they are largely underfunded.
+While the presence of ineffective protected areas often causes people to feel that conservation progress is being made, the presence of a protected are superior to no protected area at all (Zhou & Grumbine 2011) 
 Description of the study site
-Xishuangbanna Dai Autonomous Prefecture is a area of southern Yunnan, China (21°09’-22°33’N, 99°58’-101°50’E) (Gao: 21°09’-22°36’N, 99°58’-101°50’E) taking up 19,220 square kilometres and supports roughly 12 percent of China’s flora  (Shou-qing; Cao & Zhang 1997). Xishuangbanna is neighbors to both Myanmar and Laos (Zhu, Wang & Li 1998). 
+Xishuangbanna Dai Autonomous Prefecture is an area of southern Yunnan, China (21°09’-22°33’N, 99°58’-101°50’E) (Gao: 21°09’-22°36’N, 99°58’-101°50’E) taking up 19,220 square kilometres and supports roughly 12 percent of China’s flora  (Shou-qing; Cao & Zhang 1997). Xishuangbanna is neighbors to both Myanmar and Laos (Zhu, Wang & Li 1998). 
 Xishuangbanna has a tropical monsoon climate, caused by the barrier to northern cold air formed by the Hengduan Mountains in the north of the region (Zhu, Wang & Li 1998; Zhu, Cao & Hu 2006a). In the dry season, lingering fog, caused by the mountainous terrain, supplements the lack of precipitation (Zhu, Wang & Li 1998; Zhu, Cao & Hu 2006a). 
 Being in the transitional zone between South-East Asia, subtropical East Asia, the Sino-Japanese floristic region, and the Sino-Himalayan floristic region, Xishuangbanna is a biodiversity hotspot (Zhu, Cao & Hu 2006b) (Zhu, Cao & Hu 2006a)  
+Yunnan happens to be China’s most biologically and culturally rich area (Zhou & Grumbine 2011)
 
 
 Maximum Entropy 
