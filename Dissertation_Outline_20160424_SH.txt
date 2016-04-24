@@ -1,0 +1,127 @@
+Dissertation outline 20160124 SH
+
+Introduction
+•	Orchidaceae
+		Diversity of orchids
+		Use of orchids
+•	Orchids in Trade
+		Sources of orchids
+		Prices of orchids
+		Hort or med?
+		CITES
+•	Orchids in China
+		Diversity of orchids in China
+		Cultural significance
+		Use in China
+•	Threats to orchids in China
+		Horticulture
+		Medicine
+		Deforestation
+		Cities
+		Harvesting
+		
+	MAXENT
+		What is Maximum Entropy?
+			Fig. 1
+		What is MAXENT?
+			ROC analysis
+			Presence only data
+			Environmental variables 
+			Regularisation
+		What can it be used for?
+			Assessing the possible spread of invasive species 
+			Climate change outlooks for at risk species 
+			Discovering new populations of a species 
+			Determining areas of conservation concern and the most appropriate reserve boundaries 
+			Assessing potential areas for reintroductions and translocations 
+		Where it falls short
+			Sampling bias
+			Range
+		Conclusions
+Aims and objectives
+1.	Where are the orchids?
+2.	What factors determine the distribution of these orchids?
+3.	What is the greatest threat to these orchids?
+4.	Make suggestions to aid in cons
+Methods
+	Study site
+		Location
+		Habitats
+		Orchids
+		Threats to orchids in XSBN
+	Fieldwork
+		Liu Qiang paper
+		sampling bias
+•	Preparing data
+		Selection of species
+			Dt
+			Lm
+		Presence points
+		Layer selection
+		Environmental variables(change to Factors?)
+			Remote sensing
+				Night light
+				Landsat 8 
+					Path Row Date
+					130 45 17 Mar 2015
+					130 44
+					129 45 21 February 2015
+					131 44 7 Mar 2015
+					131 45
+				Albedo
+				Raw bands
+				MSR
+				NDVI
+				RNDVI
+				Tasseled cap transformation
+				
+			Distance to roads
+			Direction to roads? Eucdirection
+			Resistance-rcstdst-slp
+			Distance to water?
+			DEM
+			Aspect
+			Slope
+			Aspect-slope
+				Fig
+			
+			
+		Principle component analysis
+	MAXENT
+		Model selection
+	
+•	analysis
+Results
+	Map
+	ROC analysis
+Discussion
+	Orchid distribution
+	Factors determining distribution
+	Threats to orchids
+	Why does this matter?
+	What does this teach us?
+	Assumptions of Habitat suitablility models
+Conclusion
+	What should we do?
+		assisted migration? Hewitt (2011)
+		
+		
+todo
+
+	check that the factors in final models are correct
+	map of all locations on field surveys
+	how many locations were removed?
+	map of general xsbn
+	map of china
+	find list of orchids in market surveys
+	table of final model
+	table of auc of final model
+	table of test aucs
+	table of test variables
+	map of dt anthro
+	map of dt nat
+	map of lm anthro
+	map of lm nat
+	remove the default fig labes from ROC and omission results
+	create table of precent contribution of each factor.
+	table of abbreviations
