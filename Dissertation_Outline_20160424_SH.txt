@@ -95,9 +95,34 @@ Results
 	Map
 	ROC analysis
 Discussion
+	What did this study do?
+	Why? How is this different?
+	What has this contributed?
+	signpost
+	
+	
+	
+	XSBN is a rapidly changing area - this is only a snapshot
 	Orchid distribution
-	Factors determining distribution
+	ROC curves
+	AUC values
+	Factors determining distribution/layers
+	
+	Ways to improve the model
+		higher resolution (ref lm)
+		lidar - unavailable to non gov
+		PCA
+		distance to rivers
+		unsupervised calssification
+		bioclim
+		greater number of presence points - very low return on investment
+		machine learning
+	Bias
+	
+	What's next?
+		ENM tools
 	Threats to orchids
+		climate change rubber
 	Why does this matter?
 	What does this teach us?
 	Assumptions of Habitat suitablility models
@@ -125,3 +150,4 @@ todo
 	remove the default fig labes from ROC and omission results
 	create table of precent contribution of each factor.
 	table of abbreviations
+	mention that night is categorical
