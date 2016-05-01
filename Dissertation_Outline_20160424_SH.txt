@@ -43,6 +43,7 @@ Aims and objectives
 2.	What factors determine the distribution of these orchids?
 3.	What is the greatest threat to these orchids?
 4.	Make suggestions to aid in cons
+5.	Determine if it is possible to create informative models with a small number of highly selected factors.
 Methods
 	Study site
 		Location
@@ -133,21 +134,15 @@ Conclusion
 		
 todo
 
-	check that the factors in final models are correct
-	map of all locations on field surveys
-	how many locations were removed?
-	map of general xsbn
-	map of china
-	find list of orchids in market surveys
-	table of final model
-	table of auc of final model
-	table of test aucs
+			map of general xsbn
+			map of china
+		find list of orchids in market surveys
 	table of test variables
-	map of dt anthro
-	map of dt nat
-	map of lm anthro
-	map of lm nat
+			map of dt anthro
+			map of dt nat
+			map of lm anthro
+			map of lm nat
 	remove the default fig labes from ROC and omission results
-	create table of precent contribution of each factor.
 	table of abbreviations
-	mention that night is categorical
+	correct spelling of tasseled in tables
+	
